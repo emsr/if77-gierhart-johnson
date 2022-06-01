@@ -156,7 +156,7 @@ C     ------SETTING UP OF TABLE OF SI, DELTA R AND DISTANCE------
 *     CALL GOTOER
 ****  940914
 *MS   FOR MICROSOFT USE DOMAIN ERROR
-      GRD=SQRT(-1.)
+*     GRD=SQRT(-1.)
   155 GRD=(4.*GND-1.)/4.              
       GO TO 159         
   156 GRD=GND           
@@ -243,7 +243,7 @@ C     ----USING TABLE TO OBTAIN STRATIGIC DISTANCE POINTS--------
 *     CALL GOTOER
 ****  940914
 *MS   FOR MICROSOFT USE DOMAIN ERROR
-      GRD=SQRT(-1.)
+*     GRD=SQRT(-1.)
   165 GRD=(4.*GND-1.)/4.              
       GO TO 169         
   166 GRD=GND           
