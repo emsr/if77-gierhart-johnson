@@ -1,5 +1,5 @@
 
- 
+1
  PAGE   1
 
                       PARAMETERS FOR ITS PROPAGATION MODEL APR 77 
@@ -12,11 +12,13 @@
 
                             SPECIFICATION OPTIONAL
                             ----------------------
-              AIRCRAFT ANTENNA TYPE:                                        ISOTROPIC
+              AIRCRAFT ANTENNA TYPE: 
+                                       ISOTROPIC
                    POLARIZATION: HORIZONTAL
               EFFECTIVE REFLECTION SURFACE ELEVATION ABOVE MSL:     0. FT
               EQUIVALENT ISOTROPICALLY RADIATED POWER:   22.2
-              FACILITY ANTENNA TYPE:                                        4-LOOP ARRAY (COSINE VERTICAL PATTERN)
+              FACILITY ANTENNA TYPE: 
+                                       4-LOOP ARRAY (COSINE VERTICAL PATTERN)
                    POLARIZATION: HORIZONTAL
                    COUNTERPOISE DIAMETER:  52. FT
                         HEIGHT:  12. FT ABOVE SITE SURFACE 
@@ -39,7 +41,7 @@
                    ISOTROPIC ANTENNA (DBW) BY ADDING   -2.5 DB-SQ M.
 
               * COMPUTED VALUE
- 
+1
  PAGE   2
 
                       PARAMETERS FOR ITS PROPAGATION MODEL APR 77 
@@ -82,7 +84,7 @@
               * COMPUTED VALUE
 
 
- 
+1
  PAGE   3
 
     GHBAR= -21.6HB=     .0322 K=  .0010 B= 1.6060
@@ -140,7 +142,7 @@ D N MI FREE SPACE 50%    5%    95%    90%    99%   99.9% 99.99%  .01%   .1%     
  104.61  -94.6  -99.3  -98.3 -100.1  -99.9 -100.5 -100.9 -101.3  -96.9  -97.3  -97.8  -98.5    1.7  -4.8   .0   .0 -23.5  53.8
  104.98  -94.6  -99.4  -98.3 -100.2 -100.0 -100.6 -101.0 -101.4  -96.9  -97.3  -97.9  -98.6    1.7  -4.8   .0   .0 -23.5  54.0
  109.92  -95.0 -100.3  -98.8 -101.4 -101.2 -101.9 -102.4 -102.9  -96.5  -97.2  -98.1  -99.1    1.8  -5.4   .0   .0 -23.5  56.5
- 
+1
  PAGE   4
  111.96  -95.1 -100.7  -98.9 -102.0 -101.7 -102.5 -103.1 -103.6  -96.2  -97.0  -98.0  -99.3    1.9  -5.7   .0   .0 -23.5  57.6
  114.96  -95.4 -101.3  -99.1 -102.7 -102.4 -103.3 -104.0 -104.6  -95.7  -96.7  -98.0  -99.6    1.9  -6.1   .0   .0 -23.4  59.1
@@ -184,8 +186,8 @@ D N MI FREE SPACE 50%    5%    95%    90%    99%   99.9% 99.99%  .01%   .1%     
  290.00 -103.4 -157.0 -141.8 -172.6 -168.7 -180.9 -191.9 -202.5 -120.3 -126.8 -135.1 -145.4    4.8 -57.1   .1   .0   6.2 SCAT
  300.00 -103.7 -157.8 -143.3 -173.2 -169.4 -181.4 -192.3 -202.9 -122.8 -129.1 -136.9 -146.7    5.0 -57.9   .1   .0   9.4 SCAT
  310.00 -104.0 -158.8 -145.0 -173.7 -170.0 -181.8 -192.7 -203.2 -125.6 -131.5 -138.9 -148.2    5.2 -58.6   .1   .0  12.7 SCAT
- 
- 
+1
+1
   PROGRAM IS FINISHED. 
 Stop - Program terminated.
 
