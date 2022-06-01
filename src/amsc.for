@@ -1001,7 +1001,7 @@ C     ROUTINE FOR MODEL APR 77
           
       DIMENSION B(35)                 
       DIMENSION C1(3),C2(3),C3(3),CN1(3),CN2(3),CN3(3),FM(3),FIN(3),Z(3)        
-     1,Y(35),A(50)      
+     1,Y(35),A(35)      
           
 C     MIXED--ALL YEAR TIME BLOCK YS AND CONTINENTAL V(50)         
           
