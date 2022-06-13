@@ -450,6 +450,8 @@ C     -----------------------------------------------------------
    50 W=0.              
       GO TO 45          
       END               
+
+
       FUNCTION FDASP(S)               
         implicit real*8(A-H,O-Z)
           
@@ -715,6 +717,8 @@ C     ----------------- JTAC -------------------------------------------
   507 WRITE(IOT,557)PA7               
       GO TO 550         
         END             
+
+
       FUNCTION GHBAR (F,A,B,AK,DHOR,HE)             
         implicit real*8(A-H,O-Z)
 C     ROUTINE FOR MODEL APR 77        
@@ -783,6 +787,8 @@ C     ROUTINE FOR MODEL APR 77
    14 WRITE(IOT,4)      
       GO TO 11          
       END               
+
+
       FUNCTION QERFI(Q)               
         implicit real*8(A-H,O-Z)
 C     ROUTINE FOR MODEL APR 77        
@@ -804,6 +810,8 @@ C        MAX ERROR 4.5E-4
       IF(Q .GT. 0.5)     QERFI=-QERFI               
       RETURN            
       END               
+
+
       SUBROUTINE QVARB(KL)             
         implicit real*8(A-H,O-Z)
 C     ROUTINE FOR MODEL APR 77        
@@ -916,6 +924,8 @@ C           CORRESPOND TO THE DISTANCE S
    11 AD(I)=YT          
       RETURN            
       END               
+
+
       SUBROUTINE RAIN                 
         implicit real*8(A-H,O-Z)
 ****  850402 CORRECTIONS INCLUDED     

@@ -1164,6 +1164,8 @@ C     -------------------TERMINATION OF PROGRAM------------------
       WRITE(IOT,2)      
       STOP              
       END               
+
+
       BLOCK DATA SOME                 
         implicit real*8(A-H,O-Z)
 ****  850402 CORRECTIONS INCLUDED     
