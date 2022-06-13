@@ -2,6 +2,12 @@ binaries/
 tarball/
 atoa
 
+run_raytrace
+run_raytrace_old
+run_raytrace_backup
+run_raytrace_new
+*.bck
+
 ############
 ## Windows
 ############
